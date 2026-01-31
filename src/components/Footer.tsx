@@ -52,7 +52,7 @@ const Footer = () => {
           <div className="flex flex-wrap justify-center gap-4 mb-6 text-sm text-white/80">
             <span className="flex items-center gap-2">
               <Phone size={16} />
-              (049) 540-5482
+              (049) 531-3639
             </span>
             <span className="hidden sm:inline">|</span>
             <span className="flex items-center gap-2">
